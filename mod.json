@@ -1,0 +1,12 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2081"
+	},
+	"id": "agusdikota.frame_assist",
+	"name": "Frame Assist",
+	"version": "v1.0.0",
+	"developer": "agusdikota",
+	"description": "Mod de asistencia de frames para Geometry Dash."
+}
